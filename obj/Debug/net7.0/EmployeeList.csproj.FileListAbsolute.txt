@@ -1,0 +1,15 @@
+C:\Users\João Vitor\Documents\code_csharp\employeelist\bin\Debug\net7.0\EmployeeList.exe
+C:\Users\João Vitor\Documents\code_csharp\employeelist\bin\Debug\net7.0\EmployeeList.deps.json
+C:\Users\João Vitor\Documents\code_csharp\employeelist\bin\Debug\net7.0\EmployeeList.runtimeconfig.json
+C:\Users\João Vitor\Documents\code_csharp\employeelist\bin\Debug\net7.0\EmployeeList.dll
+C:\Users\João Vitor\Documents\code_csharp\employeelist\bin\Debug\net7.0\EmployeeList.pdb
+C:\Users\João Vitor\Documents\code_csharp\employeelist\obj\Debug\net7.0\EmployeeList.csproj.AssemblyReference.cache
+C:\Users\João Vitor\Documents\code_csharp\employeelist\obj\Debug\net7.0\EmployeeList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João Vitor\Documents\code_csharp\employeelist\obj\Debug\net7.0\EmployeeList.AssemblyInfoInputs.cache
+C:\Users\João Vitor\Documents\code_csharp\employeelist\obj\Debug\net7.0\EmployeeList.AssemblyInfo.cs
+C:\Users\João Vitor\Documents\code_csharp\employeelist\obj\Debug\net7.0\EmployeeList.csproj.CoreCompileInputs.cache
+C:\Users\João Vitor\Documents\code_csharp\employeelist\obj\Debug\net7.0\EmployeeList.dll
+C:\Users\João Vitor\Documents\code_csharp\employeelist\obj\Debug\net7.0\refint\EmployeeList.dll
+C:\Users\João Vitor\Documents\code_csharp\employeelist\obj\Debug\net7.0\EmployeeList.pdb
+C:\Users\João Vitor\Documents\code_csharp\employeelist\obj\Debug\net7.0\EmployeeList.genruntimeconfig.cache
+C:\Users\João Vitor\Documents\code_csharp\employeelist\obj\Debug\net7.0\ref\EmployeeList.dll
